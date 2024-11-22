@@ -21,13 +21,13 @@ Custom affine transformations with a user-defined matrix.
 <li>View the transformed shape plotted alongside the original shape.</li>
 <li>Repeat for further transformations or exit the simulator.</li>
 </ol>
+<h2>Screenshots</h2>
+<img src="Screenshot (1).png" alt=" ">
+<img src="Screenshot (2).png" alt=" " >
+<img src="Screenshot (3).png" alt=" " >
+<img src="Screenshot (4).png" alt=" " >
+<img src="Screenshot (5).png" alt=" " >
 
-<img src="Screenshot (1).png" alt=" " width="1920" height="1080">
-<img src="Screenshot (2).png" alt=" " width="1920" height="1080">
-<img src="Screenshot (3).png" alt=" " width="1920" height="1080">
-<img src="Screenshot (4).png" alt=" " width="1920" height="1080">
-<img src="Screenshot (5).png" alt=" " width="1920" height="1080">
-
-<h4>Start your transformation journey now by running the simulator and visualizing how shapes transform in 2D space!</h4>
+<h2>Start your transformation journey now by running the simulator and visualizing how shapes transform in 2D space!</h2>
 
 
